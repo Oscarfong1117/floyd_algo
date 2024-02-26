@@ -1,4 +1,4 @@
-Software Development: Mid-Module Assignment
+## Software Development: Mid-Module Assignment
 
 ## Project Description
 Rewrite Floyd’s algorithm to use recursion.  Write to PEP standards. Put under source control and write unit tests for each function. Write performance tests and check your version against the imperative version of the algorithm.
